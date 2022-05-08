@@ -25,7 +25,7 @@
         width: 95%;
         margin : 1rem auto;
         border-radius: 6px;
-        padding : 1rem;
+        padding : 1rem ;
         border : 2px solid #eee;
         outline : #fff;
     }
